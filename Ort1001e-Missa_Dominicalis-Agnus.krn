@@ -1,13 +1,13 @@
-!!!COM:	de Orto, Marbrianus
-!!!CDT:	~1460///-1529//
-!!!OPR:	Missa Dominicalis
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	Ort1001e
-!!!SCA:	Ort1001e
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: de Orto, Marbrianus
+!!!CDT: ~1460///-1529//
+!!!OPR: Missa Dominicalis
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: Ort1001e
+!!!SCA: Ort1001e
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -883,9 +883,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8/12/2013
-!!!END:	2013/08/12/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/08/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/08/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/12/2013
+!!!END: 2013/08/12/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/08/
+!!!ONB: Translated from MusicXML and edited on 2016/02/08/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16c89

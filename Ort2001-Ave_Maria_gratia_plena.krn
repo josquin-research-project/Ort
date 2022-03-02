@@ -1,10 +1,10 @@
-!!!COM:	de Orto, Marbrianus
-!!!CDT:	~1460///-1529///
-!!!OTL:	Ave Maria gratia plena
-!!!AGN:	Motet
-!!!SCT:	Ort2001
-!!!SCA:	Ort2001
-!!!voices:	4
+!!!COM: de Orto, Marbrianus
+!!!CDT: ~1460///-1529///
+!!!OTL: Ave Maria gratia plena
+!!!AGN: Motet
+!!!SCT: Ort2001
+!!!SCA: Ort2001
+!!!voices: 4
 **kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -396,9 +396,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin (8/2012)
-!!!END:	2012/08/11/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/12/
-!!!ONB:	Translated from MusicXML and edited on 2012/08/12/ by Craig Sapp
+!!!ENC: Jesse Rodin (8/2012)
+!!!END: 2012/08/11/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/12/
+!!!ONB: Translated from MusicXML and edited on 2012/08/12/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16

@@ -1,10 +1,10 @@
-!!!COM:	de Orto, Marbrianus
-!!!CDT:	~1460///-1529//
-!!!OTL:	Descendi in ortum meum
-!!!AGN:	Motet
-!!!SCT:	Ort2010
-!!!SCA:	Ort2010
-!!!voices:	4
+!!!COM: de Orto, Marbrianus
+!!!CDT: ~1460///-1529//
+!!!OTL: Descendi in ortum meum
+!!!AGN: Motet
+!!!SCT: Ort2010
+!!!SCA: Ort2010
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -512,11 +512,11 @@
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: i=editorial accidental
-!!!SMS:	VienNB 15941
-!!!ENC:	David Burn
-!!!END:	2012///
-!!!EED:	Jesse Rodin
-!!!EED:	David Burn (Leuven U.)
-!!!EEV:	2013/05/03/
-!!!ONB:	Translated from MusicXML and edited on 2013/05/03/ by Craig Sapp
+!!!SMS: VienNB 15941
+!!!ENC: David Burn
+!!!END: 2012///
+!!!EED: Jesse Rodin
+!!!EED: David Burn (Leuven U.)
+!!!EEV: 2013/05/03/
+!!!ONB: Translated from MusicXML and edited on 2013/05/03/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16

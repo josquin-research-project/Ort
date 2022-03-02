@@ -1,10 +1,10 @@
-!!!COA:	de Orto, Marbrianus
-!!!CDT:	~1460///-1529//
-!!!OTL:	Salve regis mater sanctissima / Hic est sacerdos
-!!!AGN:	Motet
-!!!SCT:	Ort2008
-!!!SCA:	Ort2008
-!!!voices:	5
+!!!COA: de Orto, Marbrianus
+!!!CDT: ~1460///-1529//
+!!!OTL: Salve regis mater sanctissima / Hic est sacerdos
+!!!AGN: Motet
+!!!SCT: Ort2008
+!!!SCA: Ort2008
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1259,10 +1259,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8/6/2013
-!!!END:	2013/08/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/07/
+!!!ENC: Jesse Rodin 8/6/2013
+!!!END: 2013/08/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/07/
 !!attribution-level@Rue: 5 (attributed)
-!!!ONB:	Translated from MusicXML and edited on 2013/08/07/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2013/08/07/ by Craig Sapp
 !!muse2ps: C^@{COA}?^i2I150v85,85,85,85,130Q16

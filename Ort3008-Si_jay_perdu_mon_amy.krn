@@ -1,10 +1,10 @@
-!!!COM:	de Orto, Marbrianus
-!!!CDT:	~1460///-1529//
-!!!OTL:	Si j'ay perdu mon amy
-!!!AGN:	Song; Chanson
-!!!SCT:	Ort3008
-!!!SCA:	Ort3008
-!!!voices:	4
+!!!COM: de Orto, Marbrianus
+!!!CDT: ~1460///-1529//
+!!!OTL: Si j'ay perdu mon amy
+!!!AGN: Song; Chanson
+!!!SCT: Ort3008
+!!!SCA: Ort3008
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -406,9 +406,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/6/2013
-!!!END:	2013/08/06/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/06/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/06/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/6/2013
+!!!END: 2013/08/06/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/06/
+!!!ONB: Translated from MusicXML and edited on 2013/08/06/ by Craig Sapp
 !!muse2ps: C^@{COA}^i2I150v85,85,85,130Q16

@@ -1,13 +1,13 @@
-!!!COM:	de Orto, Marbrianus
-!!!CDT:	~1460///-1529//
-!!!OPR:	Missa [Ad fugam]
-!!!ONM:	2
-!!!OTL:	Gloria
-!!!AGN:	Mass; Gloria
-!!!SCT:	Ort1006b
-!!!SCA:	Ort1006b
-!!!voices-OPR:	4
-!!!voices:	4
+!!!COM: de Orto, Marbrianus
+!!!CDT: ~1460///-1529//
+!!!OPR: Missa [Ad fugam]
+!!!ONM: 2
+!!!OTL: Gloria
+!!!AGN: Mass; Gloria
+!!!SCT: Ort1006b
+!!!SCA: Ort1006b
+!!!voices-OPR: 4
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -821,9 +821,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/8/2013
-!!!END:	2013/08/09/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/11/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/11/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/8/2013
+!!!END: 2013/08/09/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/11/
+!!!ONB: Translated from MusicXML and edited on 2013/08/11/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,130Q16

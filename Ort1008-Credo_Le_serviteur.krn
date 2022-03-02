@@ -1,11 +1,11 @@
-!!!COM:	de Orto, Marbrianus
-!!!CDT:	~1460///-1529///
-!!!OTL:	Credo Le serviteur
-!!!AGN:	Mass section; Credo
-!!!SCT:	Ort1008
-!!!SCA:	Ort1008
-!!!voices-OPR:	4
-!!!voices:	4
+!!!COM: de Orto, Marbrianus
+!!!CDT: ~1460///-1529///
+!!!OTL: Credo Le serviteur
+!!!AGN: Mass section; Credo
+!!!SCT: Ort1008
+!!!SCA: Ort1008
+!!!voices-OPR: 4
+!!!voices: 4
 **kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -1173,9 +1173,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin (8/13/2012)
-!!!END:	2012/08/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/14/
-!!!ONB:	Translated from MusicXML and edited on 2012/08/14/ by Craig Sapp
+!!!ENC: Jesse Rodin (8/13/2012)
+!!!END: 2012/08/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/14/
+!!!ONB: Translated from MusicXML and edited on 2012/08/14/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150c110
